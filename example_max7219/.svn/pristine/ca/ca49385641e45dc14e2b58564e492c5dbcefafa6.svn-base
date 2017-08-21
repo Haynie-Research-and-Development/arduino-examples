@@ -1,0 +1,45 @@
+example_max7219.cpp.o: ../example_max7219.cpp ../config.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/variants/standard/pins_arduino.h \
+ /Applications/Eclipse\ Arduino/libraries/max7219/max7219.h \
+ /Applications/Eclipse\ Arduino/libraries/globalFunctions/atmega_pins.h \
+ ../functions.h
+
+../config.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Applications/Eclipse\ Arduino/ArduinoIDE/Arduino-1.6.5-r5.app/Contents/Java/hardware/arduino/avr/variants/standard/pins_arduino.h:
+
+/Applications/Eclipse\ Arduino/libraries/max7219/max7219.h:
+
+/Applications/Eclipse\ Arduino/libraries/globalFunctions/atmega_pins.h:
+
+../functions.h:
